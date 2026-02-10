@@ -11,6 +11,7 @@ et comment les sécuriser.
 
 ## Compétences acquises
 - Bases de la cybersécurité
+- hash sécurisé avec SHA-256 et bcrypt
 - Notions de chiffrement
 - Python
 
